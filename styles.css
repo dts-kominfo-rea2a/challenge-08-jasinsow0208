@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(67, 199, 239);
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+#app {
+  text-align: center;
+  background-color: white;
+  margin: auto;
+  margin-top: 50px;
+  width: 300px;
+  height: 350px;
+  padding: 20px;
+  border-radius: 4%;
+}
+
+li {
+  text-align: left;
+}
